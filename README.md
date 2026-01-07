@@ -1,6 +1,8 @@
 # AI-Powered Task Manager API 🚀
 
 A production-ready REST API service built with FastAPI and PostgreSQL that manages tasks with AI-powered summaries and priority suggestions.
+<img width="1316" height="847" alt="Screenshot 2026-01-07 111001" src="https://github.com/user-attachments/assets/e0cc5a90-fa76-4dc8-8eae-6e0fe8dc2e8a" />
+
 
 ## 📑 Table of Contents
 
